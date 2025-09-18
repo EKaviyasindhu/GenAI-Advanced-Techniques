@@ -1,0 +1,30 @@
+{
+  "Fruits": [
+    "Fresh seasonal fruits",
+    "Citrus fruits",
+    "Berries",
+    "Tropical fruits"
+  ],
+  "Vegetables": [
+    "Leafy greens",
+    "Root vegetables",
+    "Organic vegetables"
+  ],
+  "Dairy": [
+    "Milk and cream",
+    "Cheese",
+    "Yogurt and butter"
+  ],
+  "Beverages": [
+    "Juices",
+    "Soft drinks",
+    "Coffee and tea",
+    "Bottled water"
+  ],
+  "Snacks": [
+    "Chips and crisps",
+    "Cookies",
+    "Nuts and seeds",
+    "Chocolates"
+  ]
+}
